@@ -92,5 +92,4 @@ This creates an executable file that can be run on a target machine without requ
 ## Conclusion
 
 This keylogger project demonstrates the basic functionality of a keylogger along with the ability to send logs to a remote server for monitoring. Use this software responsibly and within legal boundaries.
-```
 
