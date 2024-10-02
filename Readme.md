@@ -1,6 +1,3 @@
-Here is the updated README.md file with the "Code Examples" section removed:
-
-```markdown
 # Keylogger with Remote Log Transfer
 
 ## Overview
