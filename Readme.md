@@ -34,7 +34,7 @@ A **keylogger** is a program that captures and records every keystroke made on a
 The keylogger operates using the `pynput` library to monitor and record key presses. Every 10 seconds, the recorded keystrokes are sent to a remote server specified by its IP address and port.
 
 #### Key Components:
-1. **Key Press Capture**: 
+1. **Key Press Capture** : 
    - Captures each key pressed by the user, including special keys like spacebar and backspace.
    - Logs the key data into a file located in the system's temporary directory (`temp_dir`).
    
