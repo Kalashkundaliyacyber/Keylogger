@@ -1,0 +1,18 @@
+2024-09-30 11:57:10 - Keylogger started.
+2024-09-30 11:57:16 - Special key pressed: Key.space
+2024-09-30 11:57:16 - Special key pressed: Key.space
+2024-09-30 11:57:17 - Special key pressed: Key.space
+2024-09-30 11:57:18 - Special key pressed: Key.space
+2024-09-30 11:57:19 - Special key pressed: Key.space
+2024-09-30 11:57:20 - Special key pressed: Key.space
+2024-09-30 11:57:31 - Failed to send file: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-09-30 11:58:02 - Failed to send file: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-09-30 11:58:08 - Special key pressed: Key.space
+2024-09-30 11:58:09 - Special key pressed: Key.space
+2024-09-30 11:58:09 - Special key pressed: Key.space
+2024-09-30 11:58:10 - Special key pressed: Key.space
+2024-09-30 11:58:11 - Special key pressed: Key.space
+2024-09-30 11:58:12 - Special key pressed: Key.space
+2024-09-30 11:58:12 - Log file sent successfully.
+2024-09-30 11:58:13 - Special key pressed: Key.backspace
+2024-09-30 11:58:22 - Log file sent successfully.

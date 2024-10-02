@@ -3,7 +3,7 @@ from pynput.keyboard import Controller
 
 def controlMouse ():
     mouse = Controller()
-    mouse.position = (10, 20)
+    mouse.position = (100, 20)
 
 def controlKeyboard ():
     Keyboard = Controller()
@@ -12,3 +12,4 @@ def controlKeyboard ():
 # controlMouse()
 
 controlKeyboard()
+
